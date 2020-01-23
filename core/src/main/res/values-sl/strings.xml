@@ -135,7 +135,7 @@
   <string name="next">Naprej</string>
   <string name="previous">Predhodni</string>
   <string name="wifi_only_title">Omogoči prenos vsebin prek mobilnega omrežja?</string>
-  <string name="wifi_only_msg">Če izberete \“Da\”, vas v prihodnje ne bomo opozarjali. Vendar lahko to vedno spremenite v nastavitvah</string>
+  <string name="wifi_only_msg">Če izberete “Da”, vas v prihodnje ne bomo opozarjali. Vendar lahko to vedno spremenite v nastavitvah</string>
   <string name="pref_wifi_only">Prenašanje vsebine samo prek WiFi</string>
   <string name="time_day">dan</string>
   <string name="time_hour">h</string>

@@ -288,4 +288,5 @@
   <string name="storage_permission_denied">إِذن التّخزين قد رُفِض</string>
   <string name="grant_read_storage_permission">يتطلب هذا التطبيق القدرة على قراءة وظيفة التخزين؛ يُرجَى منح الإذن في إعداداتك</string>
   <string name="go_to_permissions">اذهب للإعدادات</string>
+  <string name="no_results">لا نتائج</string>
 </resources>

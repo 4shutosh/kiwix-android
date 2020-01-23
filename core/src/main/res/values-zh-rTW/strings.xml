@@ -288,4 +288,5 @@
   <string name="storage_permission_denied">儲存裝置權限被拒絕</string>
   <string name="grant_read_storage_permission">此應用程式需要可讀取儲存裝置的功能。請在您的設定裡授予權限</string>
   <string name="go_to_permissions">前往設定</string>
+  <string name="no_results">沒有結果</string>
 </resources>

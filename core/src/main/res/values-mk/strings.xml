@@ -283,4 +283,5 @@
   <string name="storage_permission_denied">Дозволата за складирање е одбиена</string>
   <string name="grant_read_storage_permission">Прилогов бара пристап до складот за да работи. Дајте му ја таа дозвола во поставките</string>
   <string name="go_to_permissions">Оди во поставките</string>
+  <string name="no_results">Нема исход</string>
 </resources>

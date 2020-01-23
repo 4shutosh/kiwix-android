@@ -211,11 +211,12 @@
   <string name="expand">הרחבה</string>
   <string name="history">היסטוריה</string>
   <string name="history_from_current_book">היסטוריה מהספר הנוכחי</string>
+  <string name="search_history">חיפוש בהיסטוריה</string>
   <string name="selected_items">נבחרו %1$d</string>
   <string name="bookmarks_from_current_book">סימניות מהספר הנוכחי</string>
   <string name="search_bookmarks">חיפוש סימניות</string>
   <string name="switch_tabs">החלפת כרטיסיות</string>
-  <string name="smiling_face"><![CDATA[<bdi direction=\“ltr\”>:D</bdi>]]></string>
+  <string name="smiling_face">&lt;bdi direction=“ltr”&gt;:D&lt;/bdi&gt;</string>
   <string name="close_all_tabs">סגירת כל הכרטיסיות</string>
   <string name="pending_state">ממתין</string>
   <string name="running_state">בעבודה</string>
@@ -287,4 +288,5 @@
   <string name="storage_permission_denied">אישור האחסון נדחה</string>
   <string name="grant_read_storage_permission">אפליקציה זו דורשת את אפשרות לקרוא את האחסון שלך כדי לתפקד. אנא הענק את ההרשאה בהגדרות שלך</string>
   <string name="go_to_permissions">לך להגדרות</string>
+  <string name="no_results">אין תוצאות</string>
 </resources>

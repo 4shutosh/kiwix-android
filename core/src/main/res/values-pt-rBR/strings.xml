@@ -159,7 +159,7 @@
   <string name="next">Próximo</string>
   <string name="previous">Anterior</string>
   <string name="wifi_only_title">Permitir o download de conteúdo via rede móvel?</string>
-  <string name="wifi_only_msg">Se você escolher \“Sim\” você não será avisado no futuro. No entanto, você sempre pode alterar isso em Configurações</string>
+  <string name="wifi_only_msg">Se você escolher “Sim” você não será avisado no futuro. No entanto, você sempre pode alterar isso em Configurações</string>
   <string name="pref_wifi_only">Baixar conteúdo apenas via WiFi</string>
   <string name="time_day">dia</string>
   <string name="time_hour">h</string>
@@ -289,4 +289,5 @@
   <string name="storage_permission_denied">Permissão de armazenamento negada</string>
   <string name="grant_read_storage_permission">Este aplicativo requer a capacidade de ler o armazenamento para funcionar. Conceda a permissão nas suas configurações</string>
   <string name="go_to_permissions">Vá para as configurações</string>
+  <string name="no_results">Sem resultados</string>
 </resources>

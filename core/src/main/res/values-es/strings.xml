@@ -237,4 +237,5 @@
   <string name="tag_short_text">Texto breve</string>
   <string name="storage_permission_denied">Se rechazó el permiso de almacenamiento</string>
   <string name="go_to_permissions">Ir a Configuración</string>
+  <string name="no_results">No hay ningún resultado</string>
 </resources>
