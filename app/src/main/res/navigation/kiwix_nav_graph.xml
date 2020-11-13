@@ -77,6 +77,10 @@
     android:name="org.kiwix.kiwixmobile.core.page.bookmark.BookmarksFragment"
     android:label="BookmarksFragment" />
   <fragment
+    android:id="@+id/notesFragment"
+    android:name="org.kiwix.kiwixmobile.core.page.notes.NotesFragment"
+    android:label="NotesFragment" />
+  <fragment
     android:id="@+id/introFragment"
     android:name="org.kiwix.kiwixmobile.intro.IntroFragment"
     android:label="IntroFragment">
